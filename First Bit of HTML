@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sima's Interests</title>
+    </head>
+<body>
+    <div>
+        <h1> Wassabi People of Coursera, My name is Sima.</h1>
+        <p> If you happen to stumble onto this page and are curious what my interest are, I suppose keep on reading!
+        </p>
+    </div>
+    <div>
+        <h2> First, a little back story if you will... </h2>
+        <p> My new husband is a programmer for a software company here in WA, go figure, one of the tech capitals of the
+            world. I decided I would like to better understand what he does in his day, and better understand what hes
+            talking about when he tells me about his day and whats going on for him. He is a Full Stack developer, but
+            he knows ALOT of computer languages, and recommending me starting with HTML, CSS, and JavaScript. </p>
+    </div>
+    <div>
+        <h2> Now that you're all caught up with my story... </h2>
+        <p> I don't have too many hobbies, I'm currently a stay at home Wifey, I was a Barber for many years till COVID
+            shut down all the salons in my area. Now I just spend my days doing crafts, or video games. I also just
+            spend alot of time with my Cat, "Razputin the Kitty Warmind" if you know, you know. </p>
+    </div>
+    <div>
+        <h2> A few of my Craft Hobbies include; </h2>
+        <h4> *Crochet </h4>
+        <p> I crochet all sorts of things, I have done it since I was about 5yo, and it has always been a good relaxing
+            task for myself.</p>
+        <h4> *Yarn collecting</h4>
+        <p>If you ask my Husband, its really more of an addiction. But it is exactly how it sounds, I horde massive
+            amounts of varying colors and/or textures of yarn. </p>
+        <h4> *Processing Fibers</h4>
+        <p> I do this process with my Mom. It starts with getting it from a local farmer, we use Alpaca.</p>
+        <p> We then wash it, spin it to get all the extra water out, then hang it to dry before hand carding it and
+            spining it into fiber with a Drop Spindle. </p>
+        <h2> And thats just a little bit about my interests </h2>
+    </div>
+    </body>
+    </html>
+    
